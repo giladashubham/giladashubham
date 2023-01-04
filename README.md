@@ -27,6 +27,16 @@ src="https://img.shields.io/github/followers/giladashubham?logo=github&style=for
 </p>
 
 
+⚡ Lead Software Engineer for a Cybersecurity Big-Data Analytics Platform.
+
+⚡ Experience working on implementation of Big Data Pipelines, Graphs, ETL, Machine Learning, Rest APIs, Web Console and Dashboards.
+
+⚡ ZeroTrust Architecture and Machine Learning Enthusiast.
+
+⚡ Experience building and managing large engineering teams.
+
+⚡ Built High-Performance Low-Footprint Data Processing and Storage Systems.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/giladashubham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shubhamgilada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
