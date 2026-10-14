@@ -5,6 +5,7 @@ Senior Solutions Engineer in R&D at [RozieAI](https://www.rozieai.com/). I build
 ### 🔭 What I work on
 
 - **Voice AI agents**: real-time voice agents that hold natural conversations with customers and guide them through their journey on [ONEJRNY](https://onejrny.com/).
+- **Previously on [Brook](https://www.iambrook.com/)**: part of the team that built a voice AI conversation framework from scratch for Brook, RozieAI's AI front desk assistant that answers calls, texts and chats for healthcare, wellness and beauty businesses.
 - **Multi-agent conversational systems**: context-aware agents for customer engagement channels, built with [Google ADK](https://google.github.io/adk-docs/), [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/), [AutoGen](https://github.com/microsoft/autogen) and [BAML](https://github.com/BoundaryML/baml).
 - **Call center automation**: AI tools that raise call handling capacity and IVR containment, and make human agents more productive.
 - **Data engineering & security**: scalable big data pipelines, ETL, and ML models for threat detection.
