@@ -17,18 +17,12 @@ Senior Solutions Engineer in R&D at [RozieAI](https://www.rozieai.com/). I build
 
 ### 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![BAML](https://img.shields.io/badge/BAML-6E56CF?style=flat-square)
+- **Languages**: Python, TypeScript
+- **Agent frameworks**: Google ADK, OpenAI Agents SDK, AutoGen, BAML
 
 ### 📫 Get in touch
 
 I'm open to collaborating on AI agents, data engineering and conversational systems.
 
-✉️ [gilada.shubham@gmail.com](mailto:gilada.shubham@gmail.com)
-
-[![Email](https://img.shields.io/badge/Email-gilada.shubham%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gilada.shubham@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamgilada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgilada)
+- ✉️ [gilada.shubham@gmail.com](mailto:gilada.shubham@gmail.com)
+- 💼 [linkedin.com/in/shubhamgilada](https://www.linkedin.com/in/shubhamgilada)
