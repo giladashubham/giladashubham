@@ -27,5 +27,7 @@ Senior Solutions Engineer in R&D at [RozieAI](https://www.rozieai.com/). I build
 
 I'm open to collaborating on AI agents, data engineering and conversational systems.
 
+✉️ [gilada.shubham@gmail.com](mailto:gilada.shubham@gmail.com)
+
 [![Email](https://img.shields.io/badge/Email-gilada.shubham%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gilada.shubham@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamgilada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgilada)
