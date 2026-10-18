@@ -24,5 +24,7 @@ Senior Solutions Engineer in R&D at [RozieAI](https://www.rozieai.com/). I build
 
 I'm open to collaborating on AI agents, data engineering and conversational systems.
 
+- 🌐 [shubhamgilada.vercel.app](https://shubhamgilada.vercel.app): writing on voice AI, AI agents and AI security
+- 𝕏 [@Shubhamgilada](https://x.com/Shubhamgilada)
 - ✉️ [gilada.shubham@gmail.com](mailto:gilada.shubham@gmail.com)
 - 💼 [linkedin.com/in/shubhamgilada](https://www.linkedin.com/in/shubhamgilada)
